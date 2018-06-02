@@ -1,0 +1,4 @@
+api_url = "http://mzero.space/lab/x/api.php"
+title = "PYWARE"
+label = "THIS IS SPYWARE\r\nIT WILL NOT HARM YOUR COMPUTER.\r\n HOWEVER, IT WILL ATTEMPT TO STEAL DATA FROM YOUR COMPUTER.\r\n RUN WITH CAUTION.\r\n THIS SOFTWARE IS FOR RESEARCH PURPOSES ONLY."
+button_text = "GO"
